@@ -1,3 +1,7 @@
 poseidon
 batman
 superman
+flash
+capitan america
+hulk
+thor
