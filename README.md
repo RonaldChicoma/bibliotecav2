@@ -1,2 +1,3 @@
 # bibliotecav2
-#Creado por teresa de calcuta
+#Creado por jose hernando baltazar 
+en cooperacion de teresa de calcuta
